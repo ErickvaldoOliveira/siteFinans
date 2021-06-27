@@ -1,0 +1,16 @@
+/* estilos da sessão home */
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+/* estilos de todos os blocos de conteúdo */
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+/* estilos do menu do rodapé */
+footer p a {
+	margin: 5px 15px;
+}
